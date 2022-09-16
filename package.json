@@ -1,0 +1,11 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:mocakbarmaulana/fake-server.git",
+  "author": "moch akbar maulana <moc.akbar119@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
